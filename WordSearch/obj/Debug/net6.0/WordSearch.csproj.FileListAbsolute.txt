@@ -1,0 +1,15 @@
+/Users/jv/Downloads/WordSearch/WordSearch/bin/Debug/net6.0/WordSearch
+/Users/jv/Downloads/WordSearch/WordSearch/bin/Debug/net6.0/WordSearch.deps.json
+/Users/jv/Downloads/WordSearch/WordSearch/bin/Debug/net6.0/WordSearch.runtimeconfig.json
+/Users/jv/Downloads/WordSearch/WordSearch/bin/Debug/net6.0/WordSearch.dll
+/Users/jv/Downloads/WordSearch/WordSearch/bin/Debug/net6.0/WordSearch.pdb
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.csproj.AssemblyReference.cache
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.AssemblyInfoInputs.cache
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.AssemblyInfo.cs
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.csproj.CoreCompileInputs.cache
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.dll
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/net6.0/refint/WordSearch.dll
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.pdb
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.genruntimeconfig.cache
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/net6.0/ref/WordSearch.dll

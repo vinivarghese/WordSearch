@@ -1,0 +1,36 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{76D12A13-32E9-40E0-9F2A-EFEB9E9E16CC}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/jv/Downloads/WordSearch/WordSearch/Program.cs" relfile="WordSearch/Program.cs" line="101" column="1" />
+    <Breakpoint file="/Users/jv/Downloads/WordSearch/WordSearch/Program.cs" relfile="WordSearch/Program.cs" line="87" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WordSearch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="WordSearch/Program.cs" Line="91" Column="36" />
+      <File FileName="WordSearch/WordSearch.csproj" Line="9" Column="1" />
+      <File FileName="README.md" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WordSearch" expanded="True">
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/jv/Downloads/WordSearch/README.md" selected="True" />
+            </Node>
+            <Node name="WordSearch" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,13 @@
+/Users/jv/Downloads/WordSearch/WordSearch/bin/Debug/netcoreapp2.2/WordSearch.deps.json
+/Users/jv/Downloads/WordSearch/WordSearch/bin/Debug/netcoreapp2.2/WordSearch.runtimeconfig.json
+/Users/jv/Downloads/WordSearch/WordSearch/bin/Debug/netcoreapp2.2/WordSearch.runtimeconfig.dev.json
+/Users/jv/Downloads/WordSearch/WordSearch/bin/Debug/netcoreapp2.2/WordSearch.dll
+/Users/jv/Downloads/WordSearch/WordSearch/bin/Debug/netcoreapp2.2/WordSearch.pdb
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.csproj.AssemblyReference.cache
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.AssemblyInfoInputs.cache
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.AssemblyInfo.cs
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.csproj.CoreCompileInputs.cache
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.dll
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.pdb
+/Users/jv/Downloads/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.genruntimeconfig.cache
